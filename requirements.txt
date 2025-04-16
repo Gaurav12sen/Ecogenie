@@ -1,0 +1,10 @@
+google-generativeai
+Pillow
+geocoder
+feedparser
+requests
+streamlit-lottie
+streamlit-js-eval>=0.1.5
+streamlit-javascript
+streamlit-bokeh-events
+geopy
